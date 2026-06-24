@@ -18,10 +18,19 @@ The dataset consisted of three tables, including information about campaigns, si
   * **Click through Rate:** The percent of people who see a campaign and click on the associated link.
 
 ## Signup Rate
-  * 
-## Cot per Signup
-  *
+  * #CoverageMatters drove the most signups (**3,536**) at a **4.76%** signup rate.
+  * Categories like Benefit Updates lagged well behind, with only **45** signups and a 0.08% signup rate.
+  * Overall signup rates across all campaign was **1.92%**. 
+## Cost per Signup
+  * Average cost per signup across all campaigns was $3.68.
+  * Health For All had a notably low CPC (**$0.10**, which likely contributes to efficient signup costs for that category.
+  * Golden Years Security stood out with a much higher CTR relative to other metrics, which is worth a closer look in case it's driving up acquisition cost in that category.
 ## Click through Rate
-  *
+  * Health For All had the highest CTR by far at **25.48%**, despite relatively low impressions (**170,559**).
+  * Summer Wellness Tips also performed well, with an **18.09%** CTR.
+  * Family Coverage Plan had the highest impressions (**1,106,540**) of any category, but its CTR did not stand out by comparison - a gap worth investigating further.
 
 # Recommendations
+* **Health For All**: This category shows a strong CTR and low cost per click relative to others, supporting the signup growth objective efficiently. Worth considering for continued or increased investment.
+* **Family Coverage Plan**: High impressions but comparatively low engagement suggest this category may be contributing more to brand awareness than to signups. Worth investigating whether this reflects audience type or a campaign issue.
+* **Golden Years Security**: The CTR spike here doesn't align with the category's other metrics. Recommend flagging for review before drawing further conclusions.
