@@ -23,7 +23,7 @@ The dataset consisted of three tables, including information about campaigns, si
   * Overall signup rates across all campaign was **1.92%**. 
 ## Cost per Signup
   * Average cost per signup across all campaigns was $3.68.
-  * Health For All had a notably low CPC (**$0.10**, which likely contributes to efficient signup costs for that category.
+  * Health For All had a notably low CPC (**$0.10**), which likely contributes to efficient signup costs for that category.
   * Golden Years Security stood out with a much higher CTR relative to other metrics, which is worth a closer look in case it's driving up acquisition cost in that category.
 ## Click through Rate
   * Health For All had the highest CTR by far at **25.48%**, despite relatively low impressions (**170,559**).
