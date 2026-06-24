@@ -34,3 +34,7 @@ The dataset consisted of three tables, including information about campaigns, si
 * **Health For All**: This category shows a strong CTR and low cost per click relative to others, supporting the signup growth objective efficiently. Worth considering for continued or increased investment.
 * **Family Coverage Plan**: High impressions but comparatively low engagement suggest this category may be contributing more to brand awareness than to signups. Worth investigating whether this reflects audience type or a campaign issue.
 * **Golden Years Security**: The CTR spike here doesn't align with the category's other metrics. Recommend flagging for review before drawing further conclusions.
+
+# Dashboard
+The dashboard can be found in Tableau Public [here](https://public.tableau.com/app/profile/nicholas.licari/viz/Book1_17780326213190/Dashboard1). This dashboard enables users to filter by plan, campaign type, and state, and focuses on trends and values in marketing metrics, signup metrics, and claim metrics.
+
