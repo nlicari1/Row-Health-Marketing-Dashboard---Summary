@@ -38,3 +38,4 @@ The dataset consisted of three tables, including information about campaigns, si
 # Dashboard
 The dashboard can be found in Tableau Public [here](https://public.tableau.com/app/profile/nicholas.licari/viz/Book1_17780326213190/Dashboard1). This dashboard enables users to filter by plan, campaign type, and state, and focuses on trends and values in marketing metrics, signup metrics, and claim metrics.
 
+<img width="812" alt="rowhealth_dashboard" src="https://github.com/user-attachments/assets/e7f3598e-c72a-4801-8a72-632b5464e3b3" />
