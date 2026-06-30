@@ -1,4 +1,4 @@
-# Row-Health-Marketing-Dashboard---Summary
+# Row Health Marketing Dashboard - Summary
 
 # The goal of this project is to build a dashboard that allows the Row Health team to track the performance of marketing campaign categories launched in 2019, in order to support decision-making around customer signups and brand awareness ahead of quarterly business reviews.
 
